@@ -29,6 +29,8 @@ npm run dev
 
 ## Author
 
-Abishri V K  
+Abishri Kumar
+Kirtan Sanghi
+Nainitha Yalamaddi 
 B.Tech CSE | Manipal University  
-AI & Web Developer
+Web Developers
